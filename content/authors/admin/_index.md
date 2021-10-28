@@ -1,5 +1,5 @@
 ---
-role: PhD in Artificial Intelligence
+role: ""
 avatar_filename: foto_miqueljunyent.jpg
 bio: My research interests include (Deep) Reinforcement Learning, AI planning
   and Robotics.
