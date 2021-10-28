@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: foto_miqueljunyent.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include (Deep) Reinforcement Learning, AI planning
   and Robotics.
 interests:
