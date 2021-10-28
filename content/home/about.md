@@ -8,5 +8,5 @@ author: admin
 widget_id: bio
 design:
   background:
-    image: foto_miqueljunyent.jpg
+    image: ""
 ---
