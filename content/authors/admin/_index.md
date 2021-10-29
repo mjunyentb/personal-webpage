@@ -4,7 +4,12 @@ avatar_filename: avatar.jpg
 bio: My research interests include (Deep) Reinforcement Learning, AI planning
   and Robotics.
 interests:
-  - Artificial Intelligence
+  - Sequential Decision Problems
+  - (Deep) Reinforcement Learning
+  - AI Planning
+  - Autonomous Systems
+  - Robotics
+  - Control
 social:
   - icon: envelope
     icon_pack: fas
