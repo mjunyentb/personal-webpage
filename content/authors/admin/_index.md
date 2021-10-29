@@ -13,7 +13,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/MiquelJunyent
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=4vnbv1gAAAAJ
   - icon: github
     icon_pack: fab
