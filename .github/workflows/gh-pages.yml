@@ -30,4 +30,5 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           personal_token: ${{ secrets.TOKEN }}
-          publish_dir: ./public
+          external_repository: mjunyentb/mjunyentb.github.io
+          publish_branch: main  # default: gh-pages
