@@ -30,5 +30,12 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: Hugo Deploy GitHub Pages
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          HUGO_VERSION: 0.85.0
+          TARGET_REPO: mjunyentb/mjunyentb.github.io
+          TOKEN: ${{ secrets.TOKEN }}
