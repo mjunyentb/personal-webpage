@@ -12,9 +12,13 @@ jobs:
     
     
 
-    steps:
+    steps:   
     - name: Install Go
       uses: actions/setup-go@v2
+    
+    - name: path
+      shell: bash
+      run: echo ${PATH} 
     
     - name: Checkout master
       uses: actions/checkout@v1
