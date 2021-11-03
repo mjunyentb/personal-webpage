@@ -22,20 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Candidate
+    company: Universitat Pompeu Fabra
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+    company_logo: 
+    location: Barcelona, Spain
+    date_start: '2016-10-03'
+    date_end: '2021-10-02'
+    description: >-
+      PhD thesis "Width-Based Planning and Learning", on the intersection of AI planning and deep reinforcement learning: https://tiny.cc/thesis-Junyent
+      Publications:
+        * "Hierarchical Width-Based Planning and Learning", ICAPS (2021),
+        * "Deep Policies for Width-Based Planning in Pixel Domains", ICAPS (2019),
+        * "Improving width-based planning with compact policies", ICML / IJCAI / AAMAS Workshop on Planning and Learning (2018).
+
+      The first three years of my PhD were done at Grupo Oesía, an IT consulting company, as part of the Industrial PhD program of the Catalan government. 
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
