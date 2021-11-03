@@ -41,5 +41,3 @@ title: Miquel Junyent
 email: miquel.junyentbarbany@gmail.com
 ---
 I am open to work!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
