@@ -32,6 +32,9 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Universitat Pompeu Fabra (UPF)
       year: 2021
+    - course: 60/120 ECTS of MSc in Robotics and Automatic Control
+      institution: Universitat Politècnica de Catalunya (UPC)
+      year: 2016
     - course: BSc in Computer Engineering
       institution: Universitat Autònoma de Barcelona (UAB)
       year: 2014
