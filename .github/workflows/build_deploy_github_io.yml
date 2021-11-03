@@ -15,6 +15,10 @@ jobs:
     steps:   
     - name: Install Go
       uses: actions/setup-go@v2
+      
+    - name: Add Go to path
+      shell: bash
+      run: export PATH=$PATH:$(go env GOPATH)/bin
     
     - name: path
       shell: bash
