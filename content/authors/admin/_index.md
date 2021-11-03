@@ -40,4 +40,6 @@ highlight_name: true
 title: Miquel Junyent
 email: miquel.junyentbarbany@gmail.com
 ---
-I am open to work!
+
+I am passionate about mobile robotics and AI. I recently finished my PhD on the intersection of AI Planning and Deep Reinforcement Learning. I am currently looking for a position where I can apply state-of-the-art sequential decision algorithms in navigation, task and motion planning, while keeping up with the latest research in the field.
+
