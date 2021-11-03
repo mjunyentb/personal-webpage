@@ -19,7 +19,3 @@ headless: true
 design:
   view: 4
 ---
-
-[//]: # {{% callout note %}}
-[//]: # Quickly discover relevant content by [filtering publications](./publication/).
-[//]: # {{% /callout %}}
