@@ -34,11 +34,6 @@ experience:
 
       My PhD thesis was about integrating width-based planning, a family of algorithms originally designed for classical/symbolic planning, with policy learning, similar to the famous AlphaZero algorithm (which I implemented and compared to), where the planning is guided by a policy and, in turn, the planner acts as a teacher to the policy estimate. In the thesis, I also explored the use of hierarchical planning as well as feature learning, and I had the opportunity to learn and implement deep reinforcement learning algorithms such as DQN or A3C.
 
-      Publications:
-        * "Hierarchical Width-Based Planning and Learning", ICAPS (2021),
-        * "Deep Policies for Width-Based Planning in Pixel Domains", ICAPS (2019),
-        * "Improving width-based planning with compact policies", ICML / IJCAI / AAMAS Workshop on Planning and Learning (2018).
-
       Teaching duties:
         * Seminars and labs of Probabilistic Graphical Models (2019-20 and 2020-21),
         * Labs of Data Structures and Algorithms II (2017-18 and 2018-19),
