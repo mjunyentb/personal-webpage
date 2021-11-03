@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Candidate
     company: Universitat Pompeu Fabra
-    company_url: ''
+    company_url: 'https://www.upf.edu/web/ai-ml'
     company_logo: 
     location: Barcelona, Spain
     date_start: '2016-10-03'
@@ -38,14 +38,15 @@ experience:
 
       The first three years of my PhD were done at Grupo Oesía, an IT consulting company, as part of the Industrial PhD program of the Catalan government. 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Summer Intern
+    company: IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
+    company_url: 'https://www.iri.upc.edu/'
+    company_logo: 
+    location: Barcelona, Spain
+    date_start: '2016-07-01'
+    date_end: '2016-07-31'
+    description: >-
+      One-month internship where I worked on the adaptation of a learning-by-demonstration algorithm for a 7 DoF robot arm, testing it on simulation. It was implemented in Python, using ROS and Gazebo. 
 
 design:
   columns: '2'
