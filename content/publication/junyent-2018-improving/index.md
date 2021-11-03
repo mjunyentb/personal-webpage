@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-11-03T11:39:30+01:00
+lastmod: 2021-11-03T12:27:08+01:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T10:39:30.255125Z'
+publishDate: '2021-11-03T11:27:08.404945Z'
 publication_types:
-- '0'
+- '1'
 abstract: Optimal action selection in decision problems characterized by sparse, delayed
   rewards is still an open challenge. For these problems, current deep reinforcement
   learning methods require enormous amounts of data to learn controllers that reach
@@ -46,6 +46,6 @@ abstract: Optimal action selection in decision problems characterized by sparse,
   show it to have superior performance than the state-of-the-art reinforcement learning
   algorithms A2C and Alpha Zero. Finally, we present preliminary results in a subset
   of the Atari games suite.
-publication: ''
+publication: '*ICML / IJCAI / AAMAS Workshop on Planning and Learning*'
 url_pdf: https://arxiv.org/pdf/1806.05898.pdf
 ---
