@@ -30,7 +30,6 @@ experience:
     date_start: '2016-10-03'
     date_end: '2021-10-02'
     description: |2-
-      Responsibilities include:
         
         * Analysing
         * Modelling
