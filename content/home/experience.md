@@ -30,11 +30,11 @@ experience:
     date_start: '2016-10-03'
     date_end: '2021-10-02'
     description: |2-
-        Responsibilities include:
+      Responsibilities include:
         
-            * Analysing
-            * Modelling
-            * Deploying
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Summer Intern
     company: IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
