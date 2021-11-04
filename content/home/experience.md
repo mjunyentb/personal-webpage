@@ -30,16 +30,15 @@ experience:
     date_start: '2016-10-03'
     date_end: '2021-10-02'
     description: >-
-      * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI planning and deep reinforcement learning.
-      * Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
-      * My PhD thesis was about integrating width-based planning, a family of algorithms originally designed for classical/symbolic planning, with policy learning, similar to the famous AlphaZero algorithm (which I implemented and compared to), where the planning is guided by a policy and, in turn, the planner acts as a teacher to the policy estimate. In the thesis, I also explored the use of hierarchical planning as well as feature learning, and I had the opportunity to learn and implement deep reinforcement learning algorithms such as DQN, A3C, PPO or AlphaZero.
-      * Teaching in BSc Computer Science:
-           * Probabilistic Graphical Models - Seminars and labs (2019-20 and 2020-21),
-           * Data Structures and Algorithms II - labs (2017-18 and 2018-19),
-           * Bachelor thesis supervision (2019-20): "Deep Q-learning for Hard Exploration Problems",
-           * Board member of BSc and MSc thesis (2018-19, 2019-20, and 2020-21).
-
-      * The first three years of my PhD were done at Grupo Oesía, an IT consulting company, as part of the Industrial PhD program of the Catalan government. 
+    * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI planning and deep reinforcement learning.
+    * Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
+    * My PhD thesis was about integrating width-based planning, a family of algorithms originally designed for classical/symbolic planning, with policy learning, similar to the famous AlphaZero algorithm (which I implemented and compared to), where the planning is guided by a policy and, in turn, the planner acts as a teacher to the policy estimate. In the thesis, I also explored the use of hierarchical planning as well as feature learning, and I had the opportunity to learn and implement deep reinforcement learning algorithms such as DQN, A3C, PPO or AlphaZero.
+    * Teaching in BSc Computer Science:
+         * Probabilistic Graphical Models - Seminars and labs (2019-20 and 2020-21),
+         * Data Structures and Algorithms II - labs (2017-18 and 2018-19),
+         * Bachelor thesis supervision (2019-20): "Deep Q-learning for Hard Exploration Problems",
+         * Board member of BSc and MSc thesis (2018-19, 2019-20, and 2020-21).
+    * The first three years of my PhD were done at Grupo Oesía, an IT consulting company, as part of the Industrial PhD program of the Catalan government. 
 
   - title: Summer Intern
     company: IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
