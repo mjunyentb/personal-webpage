@@ -30,8 +30,8 @@ experience:
     date_start: '2016-10-03'
     date_end: '2021-10-02'
     description: >-
-    * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI planning and deep reinforcement learning.
-    * Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
+      *PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI planning and deep reinforcement learning.
+      *Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
 
   - title: Summer Intern
     company: IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
