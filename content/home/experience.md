@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Candidate
+  - title: Predoctoral Researcher (PhD)
     company: Universitat Pompeu Fabra
     company_url: 'https://www.upf.edu/web/ai-ml'
     company_logo: 
@@ -40,6 +40,18 @@ experience:
           * Data Structures and Algorithms II - labs (2017-18 and 2018-19),
           * Bachelor thesis supervision (2019-20): "Deep Q-learning for Hard Exploration Problems",
           * Board member of BSc and MSc thesis (2018-19, 2019-20, and 2020-21).
+
+  - title: Predoctoral Researcher (PhD)
+    company: Oesía Networks S.L.
+    company_url: 'https://grupooesia.com/en/'
+    company_logo: 
+    location: Barcelona, Spain
+    date_start: '2016-10-03'
+    date_end: '2019-10-02'
+    description: |2-
+        
+        * Industrial PhD program of the Catalan Government to bridgethe gapbetween industry and academia.
+        * The initial plan was to combine deep RL with big data to assist diverse consulting projects.
 
   - title: Summer Intern
     company: IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
