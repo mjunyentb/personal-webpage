@@ -31,9 +31,11 @@ experience:
     date_end: '2021-10-02'
     description: |2-
         
-        * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI planning and deep reinforcement learning.
+        * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI classical/symbolic planning and deep reinforcement learning.
         * Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
-        * My PhD thesis was about integrating width-based planning, a family of algorithms originally designed for classical/symbolic planning, with policy learning, similar to the famous AlphaZero algorithm (which I implemented and compared to), where the planning is guided by a policy and, in turn, the planner acts as a teacher to the policy estimate. In the thesis, I also explored the use of hierarchical planning as well as feature learning, and I had the opportunity to learn and implement deep reinforcement learning algorithms such as DQN, A3C, PPO or AlphaZero.
+        * Integration of width-based planning with policy and feature learning.
+        * Hierarchical planning approach for sparse reward tasks.
+        * Learning and implementing state-of-the-art Deep RL algorithms such as DQN, A3C, PPO, AlphaZero.
         * Teaching in BSc Computer Science:
           * Probabilistic Graphical Models - Seminars and labs (2019-20 and 2020-21),
           * Data Structures and Algorithms II - labs (2017-18 and 2018-19),
@@ -47,8 +49,11 @@ experience:
     location: Barcelona, Spain
     date_start: '2016-07-01'
     date_end: '2016-07-31'
-    description: >-
-      One-month internship where I worked on the adaptation of a learning-by-demonstration algorithm for a 7 DoF robot arm, testing it on simulation. It was implemented in Python, using ROS and Gazebo.
+    description: |2-
+
+        * Adaptating a learning-by-demonstration algorithm for a 7 DoF robot arm.
+        * Implemented in Python and ROS.
+        * Tested on simulation using Gazebo.
       
   - title: Project Engineer
     company: Center of Expertise in Computer Vision - NHL University of Applied Sciences
@@ -57,8 +62,13 @@ experience:
     location: Leeuwarden, The Netherlands
     date_start: '2014-08-28'
     date_end: '2015-08-31'
-    description: >-
-      As a project engineer, I supervised computer vision related projects while doing research on how to control an Unmanned Aerial Vehicle (UAV) with all computation and sensors on board. I also piloted UAVs indoors for autonomous flight tests, participated in trade shows and workshops, and taught a one week course in computer vision. 
+    description: |2-
+        
+        * Supervision of computer vision and control projects
+        * Research: Control of an Unmanned Aerial Vehicle (UAV) with all computation and sensors on board.
+        * Piloting UAVs indoors for autonomous flight tests.
+        * Participating in trade shows and workshops.
+        * Teaching a one week course in computer vision.
 
   - title: Intern
     company: Center of Expertise in Computer Vision - NHL University of Applied Sciences
@@ -67,8 +77,9 @@ experience:
     location: Leeuwarden, The Netherlands
     date_start: '2014-02-01'
     date_end: '2014-07-31'
-    description: >-
-       Bachelor thesis: Autonomous flight of an hexacopter using onboard image processing. 
+    description: |2-
+        
+        * Bachelor thesis: Autonomous flight of an hexacopter using onboard image processing. 
 
 design:
   columns: '2'
