@@ -50,7 +50,7 @@ experience:
     date_end: '2019-10-02'
     description: |2-
         
-        * Industrial PhD program of the Catalan Government to bridgethe gapbetween industry and academia.
+        * Industrial PhD program of the Catalan Government to bridge the gap between industry and academia.
         * The initial plan was to combine deep RL with big data to assist diverse consulting projects.
 
   - title: Summer Intern
