@@ -31,12 +31,10 @@ experience:
     date_end: '2021-10-02'
     description: |2-
         
-        * PhD thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent), on the intersection of AI classical/symbolic planning and deep reinforcement learning.
+        * Thesis [Width-Based Planning and Learning](https://tiny.cc/thesis-Junyent).
         * Successfully defended on October 15th 2021 with Excellent and ``Cum Laude'' mention.
-        * Thesis topic:
-          * Integration of width-based planning with policy learning.
-          * Hierarchical planning approach for sparse reward tasks.
-        * I also learned and implemented state-of-the-art Deep RL algorithms such as DQN, A3C, PPO, AlphaZero.
+        * Main topic: integration of AI classical/symbolic planning approach with deep reinforcement learning.
+        * Learning and implementing state-of-the-art Deep RL algorithms such as DQN, A3C, PPO, AlphaZero.
         * Teaching in BSc Computer Science:
           * Probabilistic Graphical Models - Seminars and labs (2019-20 and 2020-21),
           * Data Structures and Algorithms II - labs (2017-18 and 2018-19),
