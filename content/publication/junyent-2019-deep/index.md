@@ -55,4 +55,7 @@ abstract: Width-based planning has demonstrated great success in recent years du
 publication: '*Proceedings of the Twenty-Ninth International Conference on Automated
   Planning and Scheduling (ICAPS 2019)*'
 url_pdf: https://arxiv.org/pdf/1904.07091.pdf
+url_poster: https://drive.google.com/file/d/1VGfyGOoyc5VJ9HS-h8Jeds_9UL4zy6jh/view?usp=sharing
+url_slides: https://docs.google.com/presentation/d/e/2PACX-1vRBB_HFOV99SxtsfZCEvNo_02P29UDqmWL-qu9w5fQ8Du9eTHV5yeStz6GGUuinIQ/pub?start=true&loop=false&delayms=3000
+url_code: https://github.com/aig-upf/pi-IW
 ---
