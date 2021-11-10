@@ -48,4 +48,5 @@ abstract: Optimal action selection in decision problems characterized by sparse,
   of the Atari games suite.
 publication: '*ICML / IJCAI / AAMAS Workshop on Planning and Learning*'
 url_pdf: https://arxiv.org/pdf/1806.05898.pdf
+url_poster: https://drive.google.com/file/d/1nyPynt0MqQq-K52Zb468KuhR7AF3FOOP/view?usp=sharing
 ---
