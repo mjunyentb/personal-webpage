@@ -48,4 +48,8 @@ abstract: Width-based search methods have demonstrated state-of-the-art performa
 publication: '*Proceedings of the International Conference on Automated Planning and
   Scheduling*'
 url_pdf: https://arxiv.org/pdf/2101.06177.pdf
+url_poster: https://icaps21.icaps-conference.org/link/posters/index.html?id=322
+url_slides: https://docs.google.com/presentation/d/e/2PACX-1vRa4_UiD3DcW5oUQ9ITBxPf89P__Mq1ibzxNfEgOpPjG-ZKQ26B35p-oNxlbgLiTB9cNh_zAl5FGfhX/pub?start=true&loop=false&delayms=3000
+url_video: https://icaps21.icaps-conference.org/exhibition/index.html?channel=322
+url_code: https://github.com/aig-upf/hierarchical-IW
 ---
