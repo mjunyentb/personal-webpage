@@ -25,7 +25,7 @@ experience:
   - title: Predoctoral Researcher (PhD)
     company: Universitat Pompeu Fabra
     company_url: 'https://www.upf.edu/web/ai-ml'
-    company_logo: logo_upf
+    company_logo: 
     location: Barcelona, Spain
     date_start: '2016-10-03'
     date_end: '2021-10-02'
