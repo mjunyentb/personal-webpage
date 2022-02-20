@@ -62,7 +62,7 @@ experience:
     date_end: '2016-07-31'
     description: |2-
 
-        * Adaptating a learning-by-demonstration algorithm for a 7 DoF robot arm.
+        * Adapting a learning-by-demonstration algorithm for a 7 DoF robot arm.
         * Implemented in Python and ROS.
         * Tested on simulation using Gazebo.
       
