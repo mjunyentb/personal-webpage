@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Motion Planning Engineer
     company: Embotech
-    company_url: 'https://www.embotech.com
+    company_url: 'https://www.embotech.com'
     company_logo: 
     location: Zurich, Switzerland
     date_start: '2022-02-14'
