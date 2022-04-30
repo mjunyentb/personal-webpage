@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Zürich, Switzerland
     date_start: '2022-02-14'
-    date_end: 
+    date_end: ''
     description: 
 
   - title: Predoctoral Researcher (PhD)
