@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Motion Planning Engineer
+    company: Embotech
+    company_url: 'https://www.embotech.com
+    company_logo: 
+    location: Zürich, Switzerland
+    date_start: '2022-02-14'
+    date_end: 
+    description: 
+
   - title: Predoctoral Researcher (PhD)
     company: Universitat Pompeu Fabra
     company_url: 'https://www.upf.edu/web/ai-ml'
