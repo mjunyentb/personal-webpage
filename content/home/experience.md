@@ -26,7 +26,7 @@ experience:
     company: Embotech
     company_url: 'https://www.embotech.com
     company_logo: 
-    location: Zürich, Switzerland
+    location: Zurich, Switzerland
     date_start: '2022-02-14'
     date_end: ''
     description: 
