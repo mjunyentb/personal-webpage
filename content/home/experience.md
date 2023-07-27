@@ -29,7 +29,10 @@ experience:
     location: Zurich, Switzerland
     date_start: '2022-02-14'
     date_end: ''
-    description: 
+    description:  |2-
+        
+        * Developing motion planning algorithms for unstructured, low-speed maneuvering and parking.
+        * Focus on global planning, both for cars and trucks with trailers.
 
   - title: Predoctoral Researcher (PhD)
     company: Universitat Pompeu Fabra
